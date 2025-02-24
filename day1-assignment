@@ -1,0 +1,90 @@
+1. Explain what software engineering is and discuss its importance in the technology industry
+Software engineering is the systematic application of engineering principles, methods, and tools to the development and maintenance of high-quality software systems.
+It involves the design, development, testing, deployment, and maintenance of software products.
+Software engineering is crucial in the technology industry because:
+    a) Complexity Management: Modern software systems are complex, and software engineering provides methodologies and tools to manage this complexity.
+    b)Quality Assurance: Ensures that software is reliable, efficient, and meets user needs.
+    c)Cost Efficiency: Proper planning and design reduce the cost of development and maintenance.
+    d)Scalability: Helps in building systems that can grow with user demand.
+
+2. Identify and describe at least three key milestones in the evolution of software engineering.  
+.mastering complexity
+Mastering process
+Mastering machine
+
+
+3. List and briefly explain the phases of the Software Development Life Cycle.
+      
+ planning - identify the software requirement or purpose and scope.
+ requirement analysis - identify the final user specification. 
+ design - building the  blueprint. 
+ coding - converting software design into source code.
+ testing - examine the software for any bugs and glitches
+      
+4. Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+waterfall methodology - Linear and sequential, each phase is completed before moving on. 
+- there is Low flexibility,
+ changes are hard to incorporate once a phase is complete.
+ - Customer feedback comes late, after the product is developed.
+ - Testing is done at the end of the development process.
+
+
+agile methodology - Iterative and incremental, with multiple cycles (sprints). 
+- High flexibility, adapts to changing requirements. 
+- Regular customer feedback is incorporated into every sprint. 
+- Testing is continuous and done after each iteration.
+
+
+5. Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+Software Developer
+    Role: Write, test, and maintain code.
+    Responsibilities: Implement features, fix bugs, and collaborate with team members.
+
+Quality Assurance Engineer
+    Role: Ensure software quality.
+    Responsibilities: Design test cases, execute tests, and report defects.
+
+Project Manager
+    Role: Oversee the project.
+    Responsibilities: Plan, execute, and close projects, manage resources, and communicate with stakeholders.
+
+
+6. Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+      IDEs
+  Importance: An IDE incorporates all facilities such as coding, debugging, and testing, thus improving productivity. 
+    Examples: Visual Studio, IntelliJ IDEA, Eclipse.
+
+ Version Control Systems
+    Importance: Track changes, are made to facilitate efficient collaboration, and manage the versioning of code.
+      Examples: Git, Subversion, and Mercurial.
+
+7. What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+  - Changing Requirements: Requirements may change during the development cycle, leading to scope creep and project delays.
+  - Tight Deadlines: Pressure to deliver software products on schedule can result in rushed development and compromised quality.
+  - Technical Debt: Accrued from shortcuts or suboptimal solutions, technical debt can impede future development efforts and increase maintenance costs.
+Strategies for Overcoming Challenges: Strategies for overcoming challenges include effective communication, agile methodologies, prioritization of tasks, and regular reassessment of project goals and timelines.
+.
+
+8. Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+Unit tests - are close to the source of an application, They consist in testing individual methods and functions of the classes, components, or modules used by your software. - it ensures that each unit performs its intended function correctly, isolated from other components.
+ Integration tests - verify that different modules or services used by your application work well together.
+ - help to ensure data flows smoothly between modules and interfaces work as expected.
+ System testing -Focus on the entire software system as a whole, including all functionalities and interactions.
+ -It help to verify that the system meets all functional and non-functional requirements, including performance, usability, and security .
+Acceptance tests - are formal tests that verify if a system satisfies business requirements. They require the entire application to be running while testing and focus on replicating user behaviors. 
+- Whether the software meets the needs of the end-user and is ready for deployment.
+#Part 2: Introduction to AI and Prompt Engineering
+
+9. Define prompt engineering and discuss its importance in interacting with AI models.
+ prompt engineering  is the process where you guide generative AI solutions to generate desired outputs.
+Importance:
+Improved user experience - Prompt engineering makes it easy for users to obtain relevant results in the first prompt. It helps mitigate bias that may be present from existing human bias in the large language models’ training data.
+Increased flexibility - A prompt engineer can create prompts with domain-neutral instructions highlighting logical links and broad patterns.
+developer control - Prompt engineering gives developers more control over users' interactions with the AI. Effective prompts provide intent and establish context to the large language models. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise.
+
+10. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Draw a picture of a person
+Draw a full-body portrait of a young woman with long brown hair, wearing a red jacket and blue jeans, standing in a park on a sunny day with trees and grass in the background.
+Clarity: The improved prompt specifies what is being asked (a full-body portrait) rather than just a "person.
+Specific Details: Describing the woman's appearance (long brown hair, red jacket, blue jeans) and the setting (park, sunny day, trees, grass) gives clear guidance on the image to be created.
+Concise: The additional details provide a clear picture without being overly complicated, making it easier for the artist to understand exactly what is needed.
